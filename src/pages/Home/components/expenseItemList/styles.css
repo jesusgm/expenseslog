@@ -1,0 +1,12 @@
+.expense-item-list {}
+
+.expense-item-list a {
+    display: inline-block;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.expense-item-list span {
+    margin: 3px 5px;
+}
